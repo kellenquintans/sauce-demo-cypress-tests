@@ -59,7 +59,9 @@ Para rodar um teste específico, como `login.cy.js`, use o comando:
 
 ```bash
 npx cypress run --spec cypress/e2e/tests/login.cy.js
+```
 
 ## Contato
 
-Para dúvidas ou mais informações, entre em contato pelo e-mail [quintans.kellen@gmail.com.](mailto:quintans.kellen@gmail.com.).
+Para dúvidas ou mais informações, entre em contato pelo e-mail [quintans.kellen@gmail.com](mailto:quintans.kellen@gmail.com).
+
