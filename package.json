@@ -1,0 +1,12 @@
+{
+  "name": "sauce-demo-cypress-tests",
+  "version": "1.0.0",
+  "description": "Repositório de testes automatizados para o site Sauce Demo utilizando Cypress e JavaScript. Os testes cobrem login, visualização de produtos, gerenciamento de carrinho e finalização de compra, seguindo boas práticas de automação com o modelo Page Object (POM) e controle de versão com Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kellen Silva",
+  "license": "ISC"
+}
